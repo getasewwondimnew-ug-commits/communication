@@ -1,0 +1,7 @@
+{
+  "name": "Digital Communication Lab",
+  "description": "An end-to-end communication system simulator featuring PCM, Line Coding, RF Modulation, and Spectral monitoring.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
